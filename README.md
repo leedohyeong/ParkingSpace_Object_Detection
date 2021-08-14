@@ -16,6 +16,6 @@
 #####  * 프로젝트 구현 목적: 주차공간에 자동차가 있는 지 없는 지 확인
 #####  * 프로젝트 기간: 2021.08.10 ~ 2021.08.13
 
-##### [프로젝트 문서화] [doclink]
+##### [] [doclink]
 
-[doclink]:https://github.com/leedohyeong/KSA_Parrot_Object_Detection/blob/main/%EC%95%B5%EB%AC%B4%EC%83%88%20%EC%A0%84%EC%B2%98%EB%A6%AC.pdf "go doc"
+[doclink]:https://github.com/leedohyeong/ParkingSpace_Object_Detection/blob/main/pred.jpg "go doc"
